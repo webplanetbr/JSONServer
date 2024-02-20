@@ -1,0 +1,14 @@
+{
+  "obs": [
+    {
+      "Data": "20/02/2024",
+      "Funcionário": "Renault Sandero",
+      "Observação": "Cliente relatou problema X"
+    },
+    {
+      "Data": "19/02/2024",
+      "Funcionário": "Regina George",
+      "Observação": "Cliente confirmou recebimento da solução"
+    }
+  ]
+}
