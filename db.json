@@ -1,14 +1,11 @@
 {
-  "obs": [
-    {
-      "Data": "20/02/2024",
-      "Funcionário": "Ramona Flowers",
-      "Observação": "Cliente relatou problema X"
-    },
-    {
-      "Data": "19/02/2024",
-      "Funcionário": "Regina George",
-      "Observação": "Cliente confirmou recebimento da solução"
-    }
-  ]
+    "listaMVSUP2": [
+        {
+            "SUP2_COD": "68",
+            "SUP2_FUN": "23",
+            "USE_SIG": "ADAO",
+            "SUP2_SUP": "38",
+            "DAT_CAD": "18/09/2023 19:18:23",
+            "SUP2_OBS":"{\\rtf1\\ansi\\deff0{\\fonttbl{\\f0\\fnil\\fcharset0 MS Sans Serif;}{\\f1\\fnil MS Sans Serif;}}\r\n\\viewkind4\\uc1\\pard\\lang1046\\f0\\fs16 permuta no valor de 1860..\\par\r\n\\par\r\n2 paginas revista\\par\r\n\\par\r\nconfirmar \\f1\\par\r\n}\r\n\\par\r\n\\par\r\n
+}
 }
