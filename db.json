@@ -1,9 +1,21 @@
 {
     "listaMVSUP2": [
         {
-            "SUP2_COD": "68",
-            "SUP2_FUN": "23",
-            "USE_SIG": "ADAO",
-            "SUP2_SUP": "38",
-            "DAT_CAD": "18/09/2023 19:18:23",
-            "SUP2_OBS":"{\\rtf1\\ansi\\deff0{\\fonttbl{\\f0\\fnil\\fcharset0 MS Sans Serif;}{\\f1\\fnil MS Sans Serif;}}\r\n\\viewkind4\\uc1\\pard\\lang1046\\f0\\fs16 permuta no valor de 1860..\\par\r\n\\par\r\n2 paginas revista\\par\r\n\\par\r\nconfirmar \\f1\\par\r\n}\r\n
+            "SUP2_COD": "130",
+            "SUP2_FUN": "28",
+            "USE_SIG": "FIN",
+            "SUP2_SUP": "60",
+            "DAT_CAD": "13/12/2023 11:42:00",
+            "SUP2_OBS": "Alterado o Status para: Finalizada(F) em 13/12/2023 as 11:42:00"
+        },
+        {
+            "SUP2_COD": "126",
+            "SUP2_FUN": "28",
+            "USE_SIG": "FIN",
+            "SUP2_SUP": "60",
+            "DAT_CAD": "04/12/2023 15:56:56",
+            "SUP2_OBS":"{\\rtf1\\ansi\\deff0{\\fonttbl{\\f0\\fnil\\fcharset0 MS Sans Serif;}{\\f1\\fnil MS Sans Serif;}}\r\n\\viewkind4\\uc1\\pard\\lang1046\\f0\\fs16 AGUARDANDO CADASTRO DE NOVO PARCELAMENTO NAS CONDI\\'c7\\'d5ES:\\line 25 PARCELAS DE 490,88\\f1\\par\r\n}\r\n"
+            
+}
+]
+}
